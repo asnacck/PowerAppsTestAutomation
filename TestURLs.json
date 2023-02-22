@@ -1,5 +1,5 @@
 {
-  "TestURLs":https://apps.powerapps.com/play/08ee390b-f756-4e8f-9c67-62d073752335?tenantId=4dffb226-c7fa-4d08-b384-bcec1ca24f25&__PATestSuiteId=6ac079d5-b54b-49ac-ba68-896ffbb7c62f&source=testStudioLink 
+  "TestURLs":https://apps.powerapps.com/play/a900e6e6-5b73-42e0-83c0-88a4819d86e8?tenantId=beeaceee-85bb-4c03-bb33-1c8088a76a79&__PATestCaseId=35c96c9f-10f3-4949-b199-ace389da16a1&source=testStudioLink
   [
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
